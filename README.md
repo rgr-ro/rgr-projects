@@ -9,9 +9,10 @@ These are my personal projects.
 
 - [Chess](/Chess)
 
-## DeepSpace
+## DeepSpace Project
 
 <p align="left">
     <a href="https://github.com/rgr-ro/DeepSpace">
         <img src="https://img.shields.io/badge/GitHub-DeepSpace-blueviolet" /></a>
 </p>
+
